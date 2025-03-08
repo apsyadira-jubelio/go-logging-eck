@@ -1,4 +1,4 @@
-module github.com/jubelio/go-logging
+module github.com/apsyadira-jubelio/go-logging-eck
 
 go 1.22
 
