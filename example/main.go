@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	"github.com/apsyadira-jubelio/go-logging-eck/getenv"
-	"github.com/apsyadira-jubelio/go-logging-eck/logging"
 	"github.com/joho/godotenv"
+	"github.com/revell29/go-logging-eck/getenv"
+	"github.com/revell29/go-logging-eck/logging"
 	"github.com/sirupsen/logrus"
 )
 

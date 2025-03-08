@@ -1,4 +1,4 @@
-module github.com/apsyadira-jubelio/go-logging-eck
+module github.com/revell29/go-logging-eck
 
 go 1.22
 
